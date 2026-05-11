@@ -9,19 +9,31 @@ O badminton é um esporte que promove disciplina, inclusão social, saúde e tra
 🚀 Tecnologias Utilizadas
 
 PHP
+
 Bootstrap
+
 HTML5
+
 CSS3
+
 JavaScript
+
 Windows Server
 
 🎯 Funcionalidades
+
 Página inicial com apresentação do projeto
+
 Informações sobre o badminton
+
 Divulgação de treinos e eventos
+
 Layout responsivo utilizando Bootstrap
+
 Navegação simples e intuitiva
+
 Estrutura preparada para futuras melhorias
+
 🌐 Site Publicado
 
 O projeto está disponível online para acesso público.
@@ -31,10 +43,15 @@ O projeto está disponível online para acesso público.
 Durante o desenvolvimento deste projeto foram praticados conhecimentos como:
 
 Desenvolvimento web com PHP
+
 Estruturação de layouts responsivos com Bootstrap
+
 Organização de páginas e componentes
+
 Publicação de sites em servidor Windows
+
 Versionamento com Git e GitHub
+
 🤝 Contribuição
 
 Contribuições são bem-vindas para melhorias no projeto.
