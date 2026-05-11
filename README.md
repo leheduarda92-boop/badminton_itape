@@ -59,4 +59,5 @@ Contribuições são bem-vindas para melhorias no projeto.
 👩‍💻 Desenvolvido por
 
 Leticia Carvalho e Letícia Konno
+
 Estudantes de Tecnologia da Informação e desenvolvedoras do projeto.
